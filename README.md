@@ -19,15 +19,6 @@
 <br/>
 
 
-[Cryptographic Attack (破密攻擊)]
-- <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC302) <br/>
-  (使用 John the Ripper 進行密碼破解)</b>
-<br/>
-
-
-[Analyze Network Traffic (分析網路流量)]
-- <b>[Coming Soon] <br/>
-<br/>
 
 ---------
 
