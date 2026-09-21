@@ -2,7 +2,12 @@
 
 ---------
 
-[Microsoft Certified: Azure Fundamentals (AZ-900) 微軟認證：Azure AZ 基礎]
+[Identity and Access Administrator Associate (SC-300) 身分和存取管理員助理]
+- <b>[Microsoft Entra ID User Management: Provisioning, Licensing, Roles, and Bulk Operations](https://github.com/AlmostNeverDone/SC301) <br/>
+  (Microsoft Entra ID 使用者管理： 帳號建立、授權、角色與批次管理)</b>
+<br/>
+
+[Azure Fundamentals (AZ-900) Azure AZ 基礎]
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
   (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 - <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
@@ -14,7 +19,7 @@
 <br/>
 
 
-[Microsoft Certified: Azure AI Fundamentals (AI-900) 微軟認證：Azure AI 基礎]
+[Azure AI Fundamentals (AI-900) Azure AI 基礎]
 - <b>[Coming Soon] </b>
 <br/>
 
