@@ -3,6 +3,8 @@
 ---------
 
 [Identity and Access Administrator Associate (SC-300) 身分和存取管理員助理]
+- <b>[Microsoft Entra ID Multifactor Authentication and Conditional Access](https://github.com/AlmostNeverDone/SC304) <br/>
+  Microsoft Entra ID 多重要素驗證 (MFA) 與條件式存取</b>
 - <b>[Microsoft Entra ID Password Security and Self-Service Password Reset](https://github.com/AlmostNeverDone/SC303) <br/>
   Microsoft Entra ID 密碼安全與自助式密碼重設 (SSPR)</b>
 - <b>[Microsoft Entra ID Group Management: Membership, Dynamic Groups, Ownership, and Licensing](https://github.com/AlmostNeverDone/SC302) <br/>
